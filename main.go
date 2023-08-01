@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"poc-interfaces/pk1"
+
+	"github.com/vleomf/go-test-module/pk1"
 )
 
 func main() {
